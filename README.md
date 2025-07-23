@@ -61,4 +61,3 @@ Sitio web profesional para la clínica “Dr. Salud”, que ofrece atención mé
 ## Contacto
 
 Si tienes dudas o quieres colaborar, contacta a [jhonnyestruve@gmail.com]
-EOF
