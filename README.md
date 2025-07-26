@@ -60,4 +60,12 @@ Sitio web profesional para la clínica “Dr. Salud”, que ofrece atención mé
 
 ## Contacto
 
-Si tienes dudas o quieres colaborar, contacta a [jhonnyestruve@gmail.com]
+¿Tienes dudas o sugerencias? Escríbeme a [jhonnyestruve@darkmatter-studio.com](mailto:jhonnyestruve@darkmatter-studio.com)
+
+---
+
+## Tags
+
+landing-doctor · darkmatter-studio · vite · tailwindcss · typescript · gsap
+
+---
